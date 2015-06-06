@@ -15,3 +15,5 @@ Game ini dibuat pake Delphi 7, seharusnya juga bisa di-*compile* dengan Kylix 3 
 Bersama game Gaple ini, disertakan juga komponen **TDominoCard** yg digunakan oleh game ini. *Source code* komponen ada di dalam folder [domino](https://github.com/git-bee/gaple/tree/master/domino).
 
 Selamat bermain! :)
+
+-Bee
