@@ -4,7 +4,7 @@ unit main;
   Gaple - Freeware Game
   Version 1.0 - 22 March 2003
   -----------------------------
-  Created by: Bisma Jayadi.
+  Created by: Bee Jay
   Copyright (C) BeeSoft Technology, 2003.
 
   ACKNOWLEDGMENT
@@ -28,8 +28,7 @@ unit main;
   CONTACT
   -------
   ICQ: 232400751
-  Email: bisma_j@yahoo.com
-  Webpage: www.geocities.com/bisma_j
+  Email: bee.ography@gmail.com
 }
 
 interface

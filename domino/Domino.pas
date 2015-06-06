@@ -4,7 +4,7 @@ unit Domino;
   TDominoCard - Freeware
   Version 1.0 - 6 February 2003
   -----------------------------
-  Created by: Bisma Jayadi.
+  Created by: Bee Jay
   Copyright (C) BeeSoft Technology, 2003.
 
   DESCRIPTION
@@ -58,8 +58,7 @@ unit Domino;
   CONTACT
   -------
   ICQ: 232400751
-  Email: bisma_j@yahoo.com
-  Webpage: www.geocities.com/bisma_j
+  Email: bee.ography@gmail.com
 }
 
 interface
